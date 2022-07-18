@@ -1,5 +1,5 @@
 # Youtube_vid_translator
-Project implements MLIR & Document translation. 
+Information Retrieval project implements MLIR & Document translation. 
 
 # Imported Libraries
 Streamlit: Running Streamlit
