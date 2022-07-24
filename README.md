@@ -23,4 +23,8 @@ Gtts: Text -> Speech
             2. If YES:
                   1. Convert translated script to speech audio using the gTTS library.  
                   2. Save the speech, then open it in read-only binary format, read that audio file, and store it to be played on the Streamlit page. 
+ 
+ Contributors:
+ 1.Aayan Nayak
+ 2.Mayank Gupta
 
