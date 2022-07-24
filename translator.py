@@ -107,3 +107,5 @@ if st.sidebar.button('Translate'):
         audio_file = open('user_trans.mp3', 'rb')
         audio_bytes = audio_file.read()
         st.audio(audio_bytes, format='audio/ogg', start_time=0)
+  
+ #############################################################################################################################3
